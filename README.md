@@ -21,6 +21,9 @@ Check Screenshots:
   <img src="https://user-images.githubusercontent.com/119154806/230674733-5ce3ba91-61ad-452a-8996-f48bb9f827d5.png" name="Screenshot_20230408015654">
 </details>
 
+Check the gameplay:
+YouTube: The gameplay/walkthrogh will be uploaded soon.
+
 Credits:
 
 Game Graphics:
