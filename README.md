@@ -6,6 +6,21 @@ Context of the story: A person named kenzo, sitting in a restaurant gets lost in
 
 The game's story is written inside script.rpy file and is in RenPy language. RenPy is a modified version of python and is used to create visual novels like this one. The code is self explanatory and I've uploaded everything that are used in the game, images, music, video, etc.
 
+Check Screenshots:
+<details>
+  <summary>Click Here To Check</summary>
+  <img src="https://user-images.githubusercontent.com/119154806/230674696-a1169c91-b0e7-4885-9e2f-a0d6819acf7d.png" name="Screenshot_20230408015346">
+  <img src="https://user-images.githubusercontent.com/119154806/230674700-4ff96a4d-da93-4290-a6d9-f37a6d24645c.png" name="Screenshot_20230408015357">
+  <img src="https://user-images.githubusercontent.com/119154806/230674703-dd26825a-dc28-4239-b06b-0bd60afb67ed.png" name="Screenshot_20230408015408">
+  <img src="https://user-images.githubusercontent.com/119154806/230674707-1ce905a2-1364-4611-9256-f167bc7966d1.png" name="Screenshot_20230408015423">
+  <img src="https://user-images.githubusercontent.com/119154806/230674710-f737b14c-e5c3-4a9d-827d-167712c8d20f.png" name="Screenshot_20230408015440">
+  <img src="https://user-images.githubusercontent.com/119154806/230674719-8de88976-7416-4702-92c0-13a723f80b9f.png" name="Screenshot_20230408015503">
+  <img src="https://user-images.githubusercontent.com/119154806/230674724-473b5da5-50c6-4e9c-bfcc-54e4829b5098.png" name="Screenshot_20230408015514">
+  <img src="https://user-images.githubusercontent.com/119154806/230674726-8ca5138c-4974-49ab-ac61-c9233250e985.png" name="Screenshot_20230408015532">
+  <img src="https://user-images.githubusercontent.com/119154806/230674730-fea1fb65-efa9-4cfa-9e58-18ada95ffdf1.png" name="Screenshot_20230408015633">
+  <img src="https://user-images.githubusercontent.com/119154806/230674733-5ce3ba91-61ad-452a-8996-f48bb9f827d5.png" name="Screenshot_20230408015654">
+</details>
+
 Credits:
 
 Game Graphics:
