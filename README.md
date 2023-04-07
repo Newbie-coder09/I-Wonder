@@ -16,8 +16,10 @@ Game Graphics:
 
   Comic sans font: https://www.fontspace.com/qd-better-comic-sans-font-f41648
 
+
 Characters:
-  Ayush: https://red-baby.itch.io/sprite-pack-male-dark-hair (Red Chan)
+ 
+ Ayush: https://red-baby.itch.io/sprite-pack-male-dark-hair (Red Chan)
 
   Waiter, Sara and Ichika: https://charat.me/en/genesis/create/
 
@@ -25,8 +27,10 @@ Characters:
 
   Teacher: https://liah0227.itch.io/saki?download
 
+
 Others:
-  Main menu video: https://www.youtube.com/watch?v=fHeQemJJQII&ab_channel=ShawnMendesVEVO
+ 
+ Main menu video: https://www.youtube.com/watch?v=fHeQemJJQII&ab_channel=ShawnMendesVEVO
 
   Backgrounds: https://lisadikaprio.itch.io/109-visual-novel-backgrounds
 
