@@ -9,6 +9,7 @@ The game's story is written inside script.rpy file and is in RenPy language. Ren
 Credits:
 
 Game Graphics:
+
   GUI of the game: https://milkvsbeer.itch.io/gui-kit-for-games
 
   Amelinda font: https://www.dafont.com/amelinda.font
