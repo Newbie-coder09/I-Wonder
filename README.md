@@ -1,6 +1,6 @@
 # I-Wonder
 I Wonder:
-A game based on a dillusional story written by Ayush. This visual novel is based on a fictional story and the characters are created in order to match the story. The sprites(characters) used in this game are taken from online sources and none of them belongs to me.
+A game based on a delusional story written by Ayush. This visual novel is based on a fictional story and the characters are created in order to match the story. The sprites(characters) used in this game are taken from online sources and none of them belongs to me.
 
 Context of the story: A person named kenzo, sitting in a restaurant gets lost in someone's thought. A person he knew from his past, but who? Discover it and enjoy the game.
 
