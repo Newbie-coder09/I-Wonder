@@ -24,9 +24,9 @@ Check Screenshots:
 Check the gameplay:
 YouTube: The gameplay/walkthrogh will be uploaded soon.
 
-Credits:
+## Credits:
 
-Game Graphics:
+### Game Graphics:
 
   GUI of the game: https://milkvsbeer.itch.io/gui-kit-for-games
 
@@ -35,7 +35,7 @@ Game Graphics:
   Comic sans font: https://www.fontspace.com/qd-better-comic-sans-font-f41648
 
 
-Characters:
+### Characters:
  
  Ayush: https://red-baby.itch.io/sprite-pack-male-dark-hair (Red Chan)
 
@@ -46,7 +46,7 @@ Characters:
   Teacher: https://liah0227.itch.io/saki?download
 
 
-Others:
+### Others:
  
  Main menu video: https://www.youtube.com/watch?v=fHeQemJJQII&ab_channel=ShawnMendesVEVO
 
