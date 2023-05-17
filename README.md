@@ -6,7 +6,7 @@ Context of the story: A person named kenzo, sitting in a restaurant gets lost in
 
 The game's story is written inside script.rpy file and is in RenPy language. RenPy is a modified version of python and is used to create visual novels like this one. The code is self explanatory and I've uploaded everything that are used in the game, images, music, video, etc.
 
-Check Screenshots:
+## Check Screenshots:
 <details>
   <summary>Click Here To Check</summary>
   <img src="https://user-images.githubusercontent.com/119154806/230674696-a1169c91-b0e7-4885-9e2f-a0d6819acf7d.png" name="Screenshot_20230408015346">
